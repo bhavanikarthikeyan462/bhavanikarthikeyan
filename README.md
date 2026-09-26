@@ -1,9 +1,12 @@
  # Hi 👋, I'm Bhavani Karthikeyan
 
 🎓 MCA Graduate | 📊 Aspiring Data Scientist | 🐍 Python Enthusiast
-Open to Internships 
-Learning Data Science
-Python Learner
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+🟢 Open to Learning & Opportunities
+📚 Learning Data Science
+🐍 Python Learner
 
 ## 🙋 About Me
 
